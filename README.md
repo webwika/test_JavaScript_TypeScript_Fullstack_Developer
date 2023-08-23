@@ -1,1 +1,1 @@
-# test_JavaScript_TypeScript_Fullstack_Developer
+# Тестовое на вакансию JavaScript TypeScript Fullstack Developer с несколькими задачами
